@@ -1,6 +1,6 @@
 ![logo](https://github.com/saurabh23011/saurabh23011/blob/main/Designer%20(3).png)
 
-<h1 align="center">Hi 👋, I'm Saurabh kumar singhh</h1>
+<h1 align="center">Hi 👋, I'm Saurabh kumar singh</h1>
 <h3 align="center">A passionate Artificial intelligence and Machine Learning from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabh23011&label=Profile%20views&color=0e75b6&style=flat" alt="saurabh23011" /> </p>
